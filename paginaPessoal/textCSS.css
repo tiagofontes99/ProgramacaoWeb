@@ -1,0 +1,14 @@
+body {
+  background-image: url("../imagemDeFundo.jpg");
+  background-size: cover;
+}
+
+#pagina\ pessoal{
+  color: navajowhite;
+}
+
+#nome{
+  color: aqua;
+  opacity: inherit;
+
+}

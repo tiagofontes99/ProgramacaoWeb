@@ -1,0 +1,12 @@
+<!DOCTYPE veiculos
+        [
+                <!ELEMENT Automovel (Matricula,Marca,Preco,modelo,km,velocidade_maxima,capacidade,combustivel)>
+                <!ELEMENT Matricula (#PCDATA)>
+                <!ELEMENT Preco (#PCDATA)>
+                <!ELEMENT modelo (#PCDATA)>
+                <!ELEMENT km (#PCDATA)>
+                <!ELEMENT velocidade_maxima (#PCDATA)>
+                <!ELEMENT Marca (#PCDATA)>
+                <!ELEMENT capacidade (#PCDATA)>
+                <!ELEMENT combustivel (#PCDATA)>
+                ]

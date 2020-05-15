@@ -1,0 +1,12 @@
+<!DOCTYPE pedido
+        [
+<!ELEMENT Pedido (Cliente,ItemsPedidos)>
+<!ELEMENT Cliente (RazaoSocial,nif)>
+<!ELEMENT ItemsPedidos (item)>
+
+
+<!ELEMENT RazaoSocial (#PCDATA)>
+<!ELEMENT nif (#PCDATA)>
+
+<!ELEMENT item (#PCDATA)>
+]

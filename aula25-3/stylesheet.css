@@ -1,0 +1,21 @@
+.red {
+    background-color: red;
+    color: white;
+}
+
+.blue {
+    background-color: blue;
+    color: white;
+}
+
+div {
+    margin-bottom: 10px;
+}
+
+#pagina\ pessoal{
+    list-style-type: georgian;
+}
+
+.padding-10 {
+    padding: 10px;
+}

@@ -1,0 +1,25 @@
+<!DOCTYPE Empresa
+        [
+                <!ELEMENT empresa (Proficionais,contratos,clientes)>
+
+                <!ELEMENT Proficionais (nome,data_nascimento,edereco,profissao)>
+                <!ELEMENT nome (#PCDATA)>
+                <!ELEMENT data_nascimento (#PCDATA)>
+                <!ELEMENT edereco (#PCDATA)>
+                <!ELEMENT profissao (#PCDATA)>
+
+                <!ELEMENT contratos (num_contrato,data_inicio,data_terminio,valor_hora,numero_controle,id_cliente)>
+                <!ELEMENT num_contrato (#PCDATA)>
+                <!ELEMENT data_inicio (#PCDATA)>
+                <!ELEMENT data_terminio (#PCDATA)>
+                <!ELEMENT valor_hora (#PCDATA)>
+                <!ELEMENT numero_controle (#PCDATA)>
+                <!ELEMENT id_cliente (#PCDATA)>
+
+                <!ELEMENT clientes (id_cliente,nome,edereco,cnpj)>
+                <!ELEMENT id_cliente (#PCDATA)>
+                <!ELEMENT nome (#PCDATA)>
+                <!ELEMENT edereco (#PCDATA)>
+                <!ELEMENT cnpj (#PCDATA)>
+
+                ]

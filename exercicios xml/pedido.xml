@@ -1,0 +1,21 @@
+<?xml version ="1.0" encoding ="UTF-8" ?>
+<pedido numero="1001">
+    <cliente>
+        <razao_social>Joaquim</razao_social>
+        <nif>000.000.000</nif>
+    </cliente>
+
+
+    <itens_pedido>
+        <item>
+            <produto>Caneta Azul</produto>
+            <quantidade>100</quantidade>
+            <preco_unit>2</preco_unit>
+        </item>
+        <item>
+            <produto></produto>
+            <quantidade></quantidade>
+            <preco_unit></preco_unit>
+        </item>
+    </itens_pedido>
+</pedido>

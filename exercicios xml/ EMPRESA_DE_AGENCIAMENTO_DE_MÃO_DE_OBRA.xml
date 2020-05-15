@@ -1,0 +1,55 @@
+<?xml version ="1.0" encoding ="UTF-8" ?>
+
+<empresa>
+    <proficionais>
+        <numero_controle tipo="inteiro">1</numero_controle>
+        <nome tipo="texto">jorge</nome>
+        <data_nascimento tipo="data">03/06/1995</data_nascimento>
+        <edereco tipo="texto">rua augusto</edereco>
+        <profissao  tipo="texto">engenheiro enformatico</profissao>
+    </proficionais>
+
+    <contratos>
+        <num_contrato  tipo="inteiro">10</num_contrato>
+        <data_inicio tipo="data">03/03/2020</data_inicio>
+        <data_terminio tipo="data">03/03/2021</data_terminio>
+        <valor_hora tipo="real">5</valor_hora>
+        <numero_controle tipo="inteiros">1</numero_controle>
+        <id_cliente tipo="inteiro">1</id_cliente>
+    </contratos>
+
+    <clientes>
+        <id_cliente tipo="inteiro">1</id_cliente>
+        <nome tipo="texto">Antonio</nome>
+        <edereco tipo="texto">Rua marques</edereco>
+        <cnpj tipo="texto">2020</cnpj>
+    </clientes>
+
+
+
+    <proficionais>
+        <numero_controle tipo="inteiro">2</numero_controle>
+        <nome tipo="texto">Luis</nome>
+        <data_nascimento tipo="data">10/02/2000</data_nascimento>
+        <edereco tipo="texto">luis@bbb.com</edereco>
+        <profissao  tipo="texto"> maquinista</profissao>
+    </proficionais>
+
+    <contratos>
+        <num_contrato  tipo="inteiro"> 1000</num_contrato>
+        <data_inicio tipo="data">03/03/2020</data_inicio>
+        <data_terminio tipo="data">03/03/2021</data_terminio>
+        <valor_hora tipo="real">12</valor_hora>
+        <numero_controle tipo="inteiros">2</numero_controle>
+        <id_cliente tipo="inteiro">2</id_cliente>
+    </contratos>
+
+    <clientes>
+        <id_cliente tipo="inteiro">2</id_cliente>
+        <nome tipo="texto">antoninnho</nome>
+        <edereco tipo="texto">antoninho@aaa.com</edereco>
+        <cnpj tipo="texto">olare</cnpj>
+    </clientes>
+
+
+</empresa>

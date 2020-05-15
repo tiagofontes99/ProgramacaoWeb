@@ -1,0 +1,15 @@
+<?xml version ="1.0" encoding ="UTF-8" ?>
+
+<veiculos>
+    <automovel>
+        <matricula>10-20-aa</matricula>
+        <marca>mercedes</marca>
+        <preco>30000</preco>
+        <modelo>a320</modelo>
+        <km>100000</km>
+        <velocidade_maxima>200km/h</velocidade_maxima>
+        <capacidade>5 pessoas</capacidade>
+        <combustivel>diesel</combustivel>
+    </automovel>
+
+</veiculos>
